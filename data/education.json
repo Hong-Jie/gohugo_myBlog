@@ -1,0 +1,20 @@
+[
+    {
+        "school":"[Texas A&M University](https://www.tamu.edu)",
+        "degree":"Master of Science",
+        "major":"Computer Science",
+        "range":"2019 - 2020"
+    },
+    {
+        "school":"[National Taiwan University](https://www.ntu.edu.tw)",
+        "degree":"Master of Science",
+        "major":"Communication Engineering",
+        "range":"2013 - 2015"
+    },
+    {
+        "school":"[National Taiwan University](https://www.ntu.edu.tw)",
+        "degree":"Bachelor of Science",
+        "major":"Electrical Engineering",
+        "range":"2008 - 2013"
+    }
+]

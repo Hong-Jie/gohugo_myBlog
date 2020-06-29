@@ -1,0 +1,44 @@
+[
+  {
+      "grouping":"Languages",
+      "skills":[ "C", "C++", "Python", "Java", "Bash script", "Makefile", "Javascript"]
+  },
+  {
+      "grouping":"Operating Systems",
+      "skills":[
+        "Debian", "Ubuntu",
+        {"name":"RTOS","icon":"linux"}
+      ]
+  },
+  {
+      "grouping":"Version Control",
+      "skills":["Git","SVN"]
+  },
+  {
+      "grouping":"Editors",
+      "skills":["Vim","Sublime", "Eclipse"]
+  },
+  {
+      "grouping":"Network Protocols",
+      "skills":[ "RADIUS", "TACAS+", "LTE", "WiFi", "HTTP", "TCP/IP"]
+  },
+  {
+      "grouping":"Embedded Systems",
+      "skills":[ "Board bring-up experience", "Device drivers", "Multithreading", "Peripherals", "Debain package deployment"]
+  },
+  {
+      "grouping":"Backend Architecture & Tools",
+      "skills":[ "Spring","Load Balancing","Microservices","RESTful APIs","Postman"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[ "MySQL"]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com","icon":"google-cloud-platform"}
+      ]
+  }
+]

@@ -10,7 +10,7 @@ enableGitInfo = false
 [params]
 address = "College Station, TX"
 email = "elvis.hongjie.chen@gmail.com"
-favicon = "/favicon.ico"
+favicon = "favicon.ico"
 firstName = "Hong-Jie"
 lastName = "Chen"
 phone = "1-555-555-1234"
