@@ -1,7 +1,14 @@
 [
   {
       "grouping":"Languages",
-      "skills":[ "C", "C++", "Python", "Java", "Bash script", "Makefile", "Javascript"]
+      "skills":[ 
+        {"name":"C","icon":"code"},
+        {"name":"C++","icon":"code"},
+        "Python", "Java",
+        {"name":"Bash script","icon":"code"},
+        {"name":"Makefile","icon":"code"},
+        "Javascript"
+      ]
   },
   {
       "grouping":"Operating Systems",
@@ -12,7 +19,10 @@
   },
   {
       "grouping":"Version Control",
-      "skills":["Git","SVN"]
+      "skills":[
+        "Git",
+        {"name":"SVN","icon":"code"}
+        ]
   },
   {
       "grouping":"Editors",
@@ -20,15 +30,34 @@
   },
   {
       "grouping":"Network Protocols",
-      "skills":[ "RADIUS", "TACAS+", "LTE", "WiFi", "HTTP", "TCP/IP"]
+      "skills":[ 
+        {"name":"RADIUS","icon":"code"},
+        {"name":"TACAS+","icon":"code"},
+        {"name":"LTE","icon":"code"},
+        {"name":"WiFi","icon":"code"},
+        {"name":"HTTP","icon":"code"},
+        {"name":"TCP/IP","icon":"code"}
+        ]
   },
   {
       "grouping":"Embedded Systems",
-      "skills":[ "Board bring-up experience", "Device drivers", "Multithreading", "Peripherals", "Debain package deployment"]
+      "skills":[ 
+        {"name":"Board bring-up experience","icon":"code"},
+        {"name":"Device drivers","icon":"code"},
+        {"name":"Multithreading","icon":"code"},
+        {"name":"Peripherals","icon":"code"},
+        {"name":"Debain package deployment","icon":"code"}
+        ]
   },
   {
       "grouping":"Backend Architecture & Tools",
-      "skills":[ "Spring","Load Balancing","Microservices","RESTful APIs","Postman"]
+      "skills":[ 
+        {"name":"Spring","icon":"code"},
+        {"name":"Load Balancing","icon":"code"},
+        {"name":"Microservices","icon":"code"},
+        {"name":"RESTful APIs","icon":"code"},
+        {"name":"Postman","icon":"code"}
+        ]
   },
   {
       "grouping":"Data Management",
@@ -37,8 +66,8 @@
   {
     "grouping":"Containers & Cloud",
       "skills":[
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com","icon":"google-cloud-platform"}
+          "AWS",
+          {"name":"Google Cloud","icon":"google-cloud-platform"}
       ]
   }
 ]

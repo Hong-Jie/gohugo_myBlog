@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "College Station, TX"
+address = "Austin, TX"
 email = "elvis.hongjie.chen@gmail.com"
 favicon = "favicon.ico"
 firstName = "Hong-Jie"
