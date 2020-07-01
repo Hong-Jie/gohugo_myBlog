@@ -5,6 +5,7 @@ link: "https://github.com/Hong-Jie/Pacman-QLearning"
 image: ""
 description: "Implemented Deep Q Learning using python"
 tags:
+  - Machine Learning
   - Deep Q Learning
   - python
 weight: 100
